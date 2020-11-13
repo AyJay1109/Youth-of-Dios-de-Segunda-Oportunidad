@@ -58,7 +58,7 @@ p, li{
 /* Header layout */
 
 nav, article, aside, footer{
-    background-color: whitesmoke;
+    background-color: rgb(188, 233, 233);
     padding: 1%;
 }
 
