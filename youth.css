@@ -63,7 +63,7 @@ nav, article, aside, footer{
 
 nav{
     height: 40px;
-    background-color: rgb(243, 115, 115);
+    background-color: rgb(252, 73, 127);
     display: flex;
     margin-bottom: 10px;
     text-shadow: 2px 10px 10px black;
@@ -145,8 +145,8 @@ div{
 }
 
 @keyframes nav {
-    from {background-color: rgb(40, 109, 155);}
-    to {background-color: rgb(219, 230, 230);}
+    from {background-color: rgb(245, 8, 8);}
+    to {background-color: rgb(233, 77, 137);}
 }
 
 a:hover{
