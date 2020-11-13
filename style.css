@@ -132,7 +132,7 @@ article{
     margin: 0 auto;
     border: black solid 3px;
     box-shadow: 0 8px 30px -10px black;
-    background-color: rgb(188, 233, 233);
+    background: rgb(188, 233, 233);
 }
 
 footer{
