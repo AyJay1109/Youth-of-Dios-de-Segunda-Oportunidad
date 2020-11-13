@@ -133,6 +133,10 @@ article{
     box-shadow: 0 8px 30px -10px black;
 }
 
+article, h1{
+    color: black;
+}
+
 footer{
     height: 10%;
     margin-top: 200px;
