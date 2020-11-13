@@ -150,6 +150,11 @@ div{
     to {background-color:  rgb(188, 233, 233);}
 }
 
+@keyframes article {
+    from {background-color: rgb(40, 109, 155);}
+    to {background-color:  rgb(188, 233, 233);}
+}
+
 a:hover{
     color: whitesmoke;
 }
