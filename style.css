@@ -166,3 +166,11 @@ div{
 a:hover{
     color: whitesmoke;
 }
+
+aside h1{
+    color: black;
+}
+
+aside h2{
+    font-size: 20px;
+}
