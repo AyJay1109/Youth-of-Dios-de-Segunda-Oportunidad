@@ -18,7 +18,6 @@ body{
     /* Center the body inside the html */
     width: 100%;
     margin: 0 auto;
-    background-color: rgb(188, 233, 233);
 }
 
 /* Typography */
@@ -132,7 +131,7 @@ article{
     margin: 0 auto;
     border: black solid 3px;
     box-shadow: 0 8px 30px -10px black;
-    background: rgb(188, 233, 233);
+    background-color: rgb(188, 233, 233);
 }
 
 footer{
